@@ -14,7 +14,7 @@ The dashboard includes the following information:
 * Movie genre
 * Synopsis
 * Bar chart displaying the most popular movies of the day
-* Transformations and measures were made using Power Query in Power BI.
+* Some transformations and measures were made using Power Query and Dax in Power BI.
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
