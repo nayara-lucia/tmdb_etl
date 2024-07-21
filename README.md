@@ -1,6 +1,6 @@
 # Movie Dashboard Project with TMDB API
 
-This project involves extracting data from The Movie Database (TMDB) API using Python, processing the data, exporting it to a CSV file, and creating an interactive dashboard in Power BI. 
+This project involves extracting data from The Movie Database (TMDB) API using Python, processing the data, exporting it to a CSV file, creating design with figma and an interactive dashboard in Power BI.. 
 
 ## Preview
 
@@ -18,6 +18,7 @@ The dashboard includes the following information:
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 * TMDB API
